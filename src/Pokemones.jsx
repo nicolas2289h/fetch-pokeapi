@@ -20,7 +20,7 @@ function Pokemones() {
 
     return (
         <>
-            <h2>Lista de Pokemones</h2>
+            <h1>Lista de Pokemones</h1>
 
             <div>
                 <ul>
